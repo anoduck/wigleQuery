@@ -1,7 +1,5 @@
-# Custom
+# Ignore personal bash scripts
 *.bash
-*.sh
-
 # Ignore macOS system files
 .DS_Store
 
