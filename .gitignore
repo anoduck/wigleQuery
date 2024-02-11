@@ -1,6 +1,7 @@
 # Ignore personal bash scripts
 *.bash
 *.sh
+wiglequery
 # Ignore macOS system files
 .DS_Store
 
